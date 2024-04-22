@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bathroomfinder-dev-e9629-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975050305903:role/amplify-bathroomfinder-dev-e9629-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975050305903:role/amplify-bathroomfinder-dev-e9629-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-bathroomfinder-dev-e9629-deployment",
+      "UnauthRoleName": "amplify-bathroomfinder-dev-e9629-unauthRole",
+      "StackName": "amplify-bathroomfinder-dev-e9629",
+      "StackId": "arn:aws:cloudformation:us-west-2:975050305903:stack/amplify-bathroomfinder-dev-e9629/4b057c60-00eb-11ef-9015-0238ced7bec7",
+      "AmplifyAppId": "dp4jxuwxr99zi"
+    }
+  }
+}
