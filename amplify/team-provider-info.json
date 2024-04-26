@@ -10,6 +10,11 @@
       "StackName": "amplify-bathroomfinder-dev-e9629",
       "StackId": "arn:aws:cloudformation:us-west-2:975050305903:stack/amplify-bathroomfinder-dev-e9629/4b057c60-00eb-11ef-9015-0238ced7bec7",
       "AmplifyAppId": "dp4jxuwxr99zi"
+    },
+    "categories": {
+      "auth": {
+        "bathroomfinder2207e999": {}
+      }
     }
   }
 }
